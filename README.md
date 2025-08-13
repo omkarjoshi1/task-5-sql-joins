@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 5: SQL Joins (Inner, Left, Right, Full)
 
 ## 🎯 Objective
@@ -29,3 +30,7 @@ Practice combining data across tables using different JOIN types and patterns on
 
 ## ✅ Outcome
 Mastery of merging data with SQL joins and understanding behavior of different join types.
+=======
+# task-5-sql-joins
+SQL join examples (INNER, LEFT, RIGHT, FULL via UNION), multi-table joins, NATURAL/CROSS joins, and join interview Q&amp;A on an e-commerce schema.
+>>>>>>> 2a87d16b1936802668d9a42589acc805ac42f51a
